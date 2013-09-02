@@ -22,3 +22,4 @@ public class DependencyExample {
     System.out.println(tokenizer.tokenize());
   }
 }
+
