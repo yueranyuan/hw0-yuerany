@@ -4,8 +4,8 @@
 	<artifactId>hw0-yuerany</artifactId>
 	<version>0.0.7</version>
 	<scm>
-		<connection>scm:git:git@github.com:yueranyuan2/hw0-yuerany.git</connection>
-		<developerConnection>scm:git:git@github.com:yueranyuan2/hw0-yuerany.git</developerConnection>
+		<connection>scm:git:git@github.com:yueranyuan/hw0-yuerany.git</connection>
+		<developerConnection>scm:git:git@github.com:yueranyuan/hw0-yuerany.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
