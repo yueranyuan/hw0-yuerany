@@ -4,8 +4,8 @@
 	<artifactId>hw0-yuerany</artifactId>
 	<version>0.0.7-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git@github.com:yueranyuan/hw0-yuerany.git</connection>
-		<developerConnection>scm:git:git@github.com:yueranyuan/hw0-yuerany.git</developerConnection>
+		<connection>scm:git:git@github.com:yueranyuan2/hw0-yuerany.git</connection>
+		<developerConnection>scm:git:git@github.com:yueranyuan2/hw0-yuerany.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
@@ -16,13 +16,11 @@
 	<distributionManagement>
 		<repository>
 			<id>deployment</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-			course-releases</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-			course-snapshots</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<build>
